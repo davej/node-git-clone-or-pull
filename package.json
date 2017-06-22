@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/strugee/node-git-clone-or-pull#readme",
   "dependencies": {
-    "jshint": "^2.9.4",
+    "jshint": "^2.9.5",
     "smart-spawn": "^2.0.0"
   },
   "optionalDependencies": {
